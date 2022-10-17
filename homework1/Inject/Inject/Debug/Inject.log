@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Github\game_safety_homework\homework1\Inject\Inject\main.cpp(153,9): warning C4002: 类函数宏的调用“printf_error”参数过多
+E:\Github\game_safety_homework\homework1\Inject\Inject\main.cpp(179): warning C4715: “APC_Inject”: 不是所有的控件路径都返回值
+  Inject.vcxproj -> E:\Github\game_safety_homework\homework1\Inject\Debug\Inject.exe

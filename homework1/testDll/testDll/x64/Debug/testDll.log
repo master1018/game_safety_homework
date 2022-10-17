@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+E:\Github\game_safety_homework\homework1\testDll\testDll\dllmain.cpp(13,26): warning C4244: “return”: 从“LRESULT”转换到“int”，可能丢失数据
+  testDll.vcxproj -> E:\Github\game_safety_homework\homework1\testDll\x64\Debug\testDll.dll

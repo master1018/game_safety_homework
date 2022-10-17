@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Github\game_safety_homework\homework1\Inject\Inject\main.cpp(47,137): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Github\game_safety_homework\homework1\Inject\Inject\main.cpp(128,18): warning C4477: “printf_s”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+E:\Github\game_safety_homework\homework1\Inject\Inject\main.cpp(128,18): message : 请考虑在格式字符串中使用“%zd”
+E:\Github\game_safety_homework\homework1\Inject\Inject\main.cpp(158,9): warning C4002: 类函数宏的调用“printf_error”参数过多
+E:\Github\game_safety_homework\homework1\Inject\Inject\main.cpp(267,111): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  Inject.vcxproj -> E:\Github\game_safety_homework\homework1\Inject\x64\Debug\Inject.exe
