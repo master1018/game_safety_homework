@@ -6,6 +6,10 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     3962 MB
     Driver:   27.21.14.6589
+FMOD failed to initialize the output device, attempting to initialize the null output.
+ 
+(Filename:  Line: 1151)
+
 Begin MonoManager ReloadAssembly
 Platform assembly: E:\Github\game_safety_homework\homework1\《校企合作课》-客户端-FlappyBird\FlappyBird_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading E:\Github\game_safety_homework\homework1\《校企合作课》-客户端-FlappyBird\FlappyBird_Data\Managed\UnityEngine.dll into Unity Child Domain
